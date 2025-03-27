@@ -37,6 +37,7 @@
   }
 }
 
-OriginList {
-  margin: 5
+td {
+  padding: '10px'; 
+  border: '1px solid black';
 }
